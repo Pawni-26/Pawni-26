@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pawni-goel-03169730b/">LinkedIn</a> •
-  <a href="pawni.260806@gmail.com">Email</a> •
+  <a href="mailto:pawni.260806@gmail.com">"Email</a> •
   <a href="https://github.com/Pawni-26">GitHub</a>
 </p>
 
@@ -167,22 +167,7 @@ Software Development
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pawni-26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawni-26&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🐍 My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-</p>
-
----
 
 ## 💭 A Little More About Me
 
@@ -217,11 +202,11 @@ class Pawni:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/pawni-goel-03169730b/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pawni.260806@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -236,7 +221,7 @@ class Pawni:
 <p align="center">
   <b>Thanks for stopping by! 💜</b>
 </p>
-## Hi there 👋
+
 
 <!--
 **Pawni-26/Pawni-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
