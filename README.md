@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pawni-goel-03169730b/">LinkedIn</a> •
-  <a href="mailto:pawni.260806@gmail.com">"Email</a> •
+  <a href="mailto:pawni.260806@gmail.com">Email</a> •
   <a href="https://github.com/Pawni-26">GitHub</a>
 </p>
 
