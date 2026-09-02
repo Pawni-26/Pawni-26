@@ -2,7 +2,7 @@
   <img src="./assets/pawni-github-header.svg" width="100%" alt="Pawni Goel - Computer Science, AI & ML">
 </p>
 
-### `Computer Science • AI/ML • Software Development`
+<h3 align="center"><code>Computer Science • AI/ML • Software Development</code></h3>
 
 <p align="center">
   <i>Building things with code, learning something new every day, and turning ideas into products.</i>
