@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Pawni Goel
+<p align="center">
+  <img src="./assets/pawni-github-header.svg" width="100%" alt="Pawni Goel - Computer Science, AI & ML">
+</p>
 
 ### `Computer Science • AI/ML • Software Development`
 
